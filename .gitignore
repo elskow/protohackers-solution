@@ -1,0 +1,5 @@
+# ignore executable
+*.exe
+*.out
+*.o
+main
